@@ -54,7 +54,9 @@ ECG signals are weak (±5 mV, 0.1–150 Hz for adults, up to ~250 Hz for childre
 
 ## Testing
 
+https://github.com/user-attachments/assets/9dff343c-2e3f-4907-a1bd-6a1063576a8a
 
+*Fig. 8 - Working ECG PCB.*
 
 
 
